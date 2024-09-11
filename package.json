@@ -1,0 +1,28 @@
+{
+  "name": "parkinsondisease",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PujaAmmineni/DETECTION-OF-PARKINSON-S-DISEASE-.git"
+  },
+  "keywords": [
+    "keywords:",
+    "parkinson",
+    "disease",
+    "prediction",
+    "severity"
+  ],
+  "author": "Puja Ammineni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PujaAmmineni/DETECTION-OF-PARKINSON-S-DISEASE-/issues"
+  },
+  "homepage": "https://github.com/PujaAmmineni/DETECTION-OF-PARKINSON-S-DISEASE-#readme",
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
